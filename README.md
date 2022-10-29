@@ -1,3 +1,3 @@
 # sample-repo
 git練習用
-変更
+変更2
